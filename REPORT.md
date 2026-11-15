@@ -37,4 +37,4 @@ The 12-document memory ordering differs from the 600-document ordering: dictiona
 
 The synthetic collections repeat only 12 documents and share underlying text string objects. They model increasing document count with fixed vocabulary, not a growing independent corpus. The measured object sizes exclude native and interpreter allocations, and timings below a millisecond are sensitive to machine load. Query order and strategy order are fixed. A stronger follow-up experiment would add a larger independent corpus, randomize run order, repeat the whole experiment several times, and compare distributions. This mini-project deliberately does not implement semantic search, typo correction, crawling, or production deployment.
 
-Reproduce the tables and plots with `uv run python -m src.benchmarking.runner`. The result screenshot is `results/screenshots/search_results.png`; plots are in `results/plots/`.
+Reproduce the tables and plots with `uv run python -m src.benchmarking.runner`. The current Streamlit screenshots are `results/screenshots/streamlit_search.png` and `results/screenshots/streamlit_benchmarks.png`; plots are in `results/plots/`.

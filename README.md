@@ -1,6 +1,6 @@
 # Smart Search Engine Using Multiple Indexing Techniques
 
-An SDS mini-project that searches local text files and compares four data structures on the same documents and queries. The application uses Python, Flask, Pandas, and Matplotlib. `uv` manages dependencies and creates the local `.venv`.
+An SDS mini-project that searches local text files and compares four data structures on the same documents and queries. The main interface is a Streamlit dashboard with search, benchmark, and explanation views. The original Flask interface is also available. `uv` manages dependencies and creates the local `.venv`.
 
 ## Run locally
 
@@ -9,10 +9,12 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/) and use Py
 ```powershell
 uv sync --python 3.12
 uv run pytest -q
-uv run flask --app app run
+uv run streamlit run streamlit_app.py
 ```
 
-Open `http://127.0.0.1:5000`. `uv sync` creates `.venv`; `uv run` uses it. To activate the environment manually in PowerShell, run `.\.venv\Scripts\Activate.ps1`.
+Open `http://localhost:8501`. The Streamlit sidebar switches between Search, Benchmarks, and How it works. `uv sync` creates `.venv`; `uv run` uses it. To activate the environment manually in PowerShell, run `.\.venv\Scripts\Activate.ps1`.
+
+The earlier Flask interface remains available with `uv run flask --app app run` at `http://127.0.0.1:5000`.
 
 To reproduce the measured experiment and regenerate all CSVs and plots:
 
@@ -56,7 +58,9 @@ Candidate count means documents inspected for sequential/forward, union of posti
 - `results/summary.csv`: ordinary-query comparison by strategy and dataset size.
 - `results/environment.json`: machine, Python, experiment settings, and measurement definitions.
 - `results/plots/`: build time, median query latency (log scale), and memory plots generated from the summary CSV.
-- `results/screenshots/`: screenshots of the running search UI.
+- `results/screenshots/`: screenshots of the running Streamlit search and benchmark views, plus the earlier Flask views.
 - `REPORT.md`: observed results, interpretation, and limitations.
 
-No external database or web crawler is required. The Flask app loads and builds the indexes once at startup, so newly added files appear after restart.
+To recapture the Streamlit screenshots on Windows with Microsoft Edge installed, start the Streamlit app and run `uv run --with playwright python scripts/capture_streamlit.py` in a second terminal. Playwright is used temporarily by this command and is not a project dependency.
+
+No external database or web crawler is required. The apps load and build the indexes at startup, so newly added files appear after restart.
