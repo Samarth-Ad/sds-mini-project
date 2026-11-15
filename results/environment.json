@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-11-15T21:57:03.655027+05:30",
+  "python_version": "3.12.8",
+  "python_executable": "python.exe",
+  "platform": "Windows-11-10.0.22631-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "logical_cpu_count": 16,
+  "sample_document_count": 12,
+  "sizes": [
+    12,
+    120,
+    600
+  ],
+  "repetitions": 5,
+  "memory_method": "Recursive sys.getsizeof over reachable Python objects, each object counted once; includes stored Document objects and index but excludes interpreter/native allocations.",
+  "latency_method": "perf_counter_ns around search(query, include_snippets=False); one warmup per query before repetitions; Flask excluded."
+}

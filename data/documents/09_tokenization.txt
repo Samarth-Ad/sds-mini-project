@@ -1,0 +1,1 @@
+Tokenization converts text into lowercase word tokens. The same normalization must apply to documents and queries. This project keeps numbers, removes punctuation, and does not apply stemming or stop-word filtering.

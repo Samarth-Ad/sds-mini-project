@@ -1,0 +1,1 @@
+Scalability studies compare performance at several collection sizes. Measurements should separate build time from query time. Synthetic repeated documents can show scaling behavior, but they are not an independent real-world corpus.

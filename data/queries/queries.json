@@ -1,0 +1,10 @@
+[
+  {"kind": "terms", "query": "document"},
+  {"kind": "terms", "query": "index"},
+  {"kind": "terms", "query": "positional"},
+  {"kind": "terms", "query": "search engine"},
+  {"kind": "terms", "query": "memory query"},
+  {"kind": "terms", "query": "zzznomatch"},
+  {"kind": "phrase", "query": "\"search engine\""},
+  {"kind": "phrase", "query": "\"index memory\""}
+]

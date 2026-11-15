@@ -1,0 +1,1 @@
+Relevance ranking can sum term frequencies for the distinct query terms. A document with repeated matching words receives a higher score. Ties use stable document identifiers so result order is deterministic.

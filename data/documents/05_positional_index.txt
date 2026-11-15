@@ -1,0 +1,1 @@
+A positional inverted index stores the positions of terms in each document. Positions let the engine check an exact phrase such as "search engine". Position lists take more memory than basic term frequency postings.

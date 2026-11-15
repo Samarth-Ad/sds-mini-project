@@ -1,0 +1,1 @@
+Data structures trade build cost, memory, and query work. A dictionary lookup can find term postings quickly, while a scan examines every document. The best choice depends on the number of documents and the query workload.

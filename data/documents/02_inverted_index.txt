@@ -1,0 +1,1 @@
+An inverted index maps each term to a posting list of documents that contain it. Searching for a rare term can inspect a short posting list. Building the index takes time and memory, but repeated queries can be fast.

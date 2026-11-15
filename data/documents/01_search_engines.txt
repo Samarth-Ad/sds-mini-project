@@ -1,0 +1,1 @@
+Search engines retrieve useful documents from large collections. A query is normalized into terms, then matched against documents. An index can reduce the work needed for each search. Ranking places documents with more matching terms near the top.

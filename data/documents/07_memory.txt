@@ -1,0 +1,1 @@
+Memory usage matters when an index contains many terms or postings. A Python dictionary has overhead beyond the text it stores. Measurements based on object size are estimates and do not represent total process memory.

@@ -1,0 +1,1 @@
+A forward index maps every document to its terms and term frequencies. It is simple to update one document. A search may still inspect many document entries because the representation is organized by document.

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Smart Search · SDS Mini Project</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <p class="eyebrow">Scalable Data Structures · Mini Project</p>
+      <h1>Smart Search</h1>
+      <p class="intro">Explore how four indexing strategies search the same document collection.</p>
+    </header>
+
+    <form action="{{ url_for('search') }}" method="post" class="search-panel">
+      <label for="query">Search documents</label>
+      <div class="query-row">
+        <input id="query" name="query" type="search" value="{{ query|default('') }}" placeholder="Try: index memory" required autofocus>
+        <button type="submit">Search</button>
+      </div>
+      <div class="controls">
+        <div>
+          <label for="strategy">Index strategy</label>
+          <select id="strategy" name="strategy">
+            {% for name in strategies %}
+            <option value="{{ name }}" {% if (selected|default('inverted')) == name %}selected{% endif %}>{{ name|title }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div>
+          <label for="top_k">Show top</label>
+          <select id="top_k" name="top_k">
+            {% for count in [5, 10, 20] %}
+            <option value="{{ count }}" {% if (top_k|default('10')|string) == (count|string) %}selected{% endif %}>{{ count }}</option>
+            {% endfor %}
+          </select>
+        </div>
+      </div>
+      <p class="hint">Multiple words use OR matching. Scores sum term frequencies. For an exact phrase, choose Positional and put the words in quotes.</p>
+    </form>
+
+    {% if error %}<div class="error" role="alert">{{ error }}</div>{% endif %}
+
+    {% if outcome %}
+    <section class="results" aria-live="polite">
+      <div class="results-head">
+        <h2>Results</h2>
+        <p>{{ outcome.result_count }} matches · {{ '%.3f'|format(elapsed_ms) }} ms · {{ selected|title }} index</p>
+      </div>
+      {% if outcome.hits %}
+        {% for hit in outcome.hits %}
+        <article class="result">
+          <div class="result-title"><h3>{{ hit.title }}</h3><span>Score {{ hit.score }}</span></div>
+          <p class="doc-id">{{ hit.id }}</p>
+          <p>{{ hit.snippet }}</p>
+        </article>
+        {% endfor %}
+      {% else %}
+        <p class="empty">No documents matched this query. Try another word or strategy.</p>
+      {% endif %}
+    </section>
+    {% endif %}
+  </main>
+</body>
+</html>

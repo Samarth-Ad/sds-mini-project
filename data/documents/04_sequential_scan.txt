@@ -1,0 +1,1 @@
+Sequential scan reads each document for every query. It needs little preparation and serves as a baseline. Query processing becomes more expensive when the document collection grows, especially when many searches are repeated.

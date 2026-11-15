@@ -1,0 +1,13 @@
+[project]
+name = "sds-smart-search"
+version = "0.1.0"
+description = "A small document search engine for comparing indexing strategies"
+requires-python = ">=3.12"
+dependencies = ["flask>=3.0,<4", "pandas>=2.2,<3", "matplotlib>=3.9,<4"]
+
+[dependency-groups]
+dev = ["pytest>=8,<9"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

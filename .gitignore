@@ -1,0 +1,8 @@
+.venv/
+.uv-cache/
+.uv-python/
+.edge-profile/
+__pycache__/
+.pytest_cache/
+.pytest-tmp/
+*.py[cod]

@@ -1,0 +1,1 @@
+Benchmark experiments run fixed queries against identical document collections. Each query is repeated after a warmup. Median latency reduces the influence of occasional slow runs. The experiment records candidate counts and result counts.

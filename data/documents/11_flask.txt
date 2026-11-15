@@ -1,0 +1,1 @@
+Flask provides a small web interface for the search engine. The form accepts a query and an indexing strategy. Results show a title, a text snippet, a relevance score, and measured search latency.

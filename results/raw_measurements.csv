@@ -1,0 +1,391 @@
+dataset,synthetic,doc_count,token_count,strategy,kind,query,repetition,latency_ms,result_count,candidate_count,build_ms,memory_bytes,python_version,platform
+12_sample,False,12,409,sequential,terms,document,1,0.1641,6,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,document,2,0.1584,6,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,document,3,0.1647,6,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,document,4,0.1592,6,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,document,5,0.1535,6,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,index,1,0.1847,5,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,index,2,0.1834,5,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,index,3,0.1773,5,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,index,4,0.1805,5,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,index,5,0.1867,5,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,positional,1,0.1775,1,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,positional,2,0.1709,1,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,positional,3,0.1749,1,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,positional,4,0.1664,1,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,positional,5,0.171,1,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,search engine,1,0.1751,4,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,search engine,2,0.1695,4,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,search engine,3,0.1711,4,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,search engine,4,0.1656,4,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,search engine,5,0.1676,4,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,memory query,1,0.1557,10,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,memory query,2,0.1552,10,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,memory query,3,0.1553,10,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,memory query,4,0.2893,10,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,memory query,5,0.1994,10,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,zzznomatch,1,0.153,0,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,zzznomatch,2,0.1499,0,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,zzznomatch,3,0.1466,0,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,zzznomatch,4,0.1472,0,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,sequential,terms,zzznomatch,5,0.1447,0,12,0.0041,8591,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,document,1,0.0126,6,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,document,2,0.0132,6,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,document,3,0.0116,6,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,document,4,0.0112,6,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,document,5,0.0108,6,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,index,1,0.0104,5,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,index,2,0.0107,5,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,index,3,0.0105,5,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,index,4,0.01,5,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,index,5,0.0105,5,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,positional,1,0.008,1,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,positional,2,0.0086,1,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,positional,3,0.0077,1,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,positional,4,0.0079,1,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,positional,5,0.0078,1,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,search engine,1,0.0114,4,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,search engine,2,0.0111,4,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,search engine,3,0.0119,4,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,search engine,4,0.0114,4,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,search engine,5,0.0113,4,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,memory query,1,0.0153,10,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,memory query,2,0.0151,10,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,memory query,3,0.0146,10,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,memory query,4,0.0146,10,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,memory query,5,0.0147,10,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,zzznomatch,1,0.0072,0,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,zzznomatch,2,0.0069,0,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,zzznomatch,3,0.007,0,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,zzznomatch,4,0.008,0,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,forward,terms,zzznomatch,5,0.0074,0,12,0.1673,36349,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,document,1,0.0077,6,6,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,document,2,0.0067,6,6,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,document,3,0.0062,6,6,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,document,4,0.0061,6,6,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,document,5,0.0058,6,6,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,index,1,0.0059,5,5,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,index,2,0.0056,5,5,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,index,3,0.0055,5,5,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,index,4,0.0053,5,5,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,index,5,0.0052,5,5,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,positional,1,0.0038,1,1,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,positional,2,0.003,1,1,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,positional,3,0.003,1,1,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,positional,4,0.0033,1,1,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,positional,5,0.003,1,1,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,search engine,1,0.0056,4,4,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,search engine,2,0.0058,4,4,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,search engine,3,0.0055,4,4,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,search engine,4,0.0055,4,4,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,search engine,5,0.0056,4,4,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,memory query,1,0.0096,10,10,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,memory query,2,0.0089,10,10,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,memory query,3,0.0086,10,10,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,memory query,4,0.0087,10,10,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,memory query,5,0.01,10,10,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,zzznomatch,1,0.0028,0,0,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,zzznomatch,2,0.0025,0,0,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,zzznomatch,3,0.0024,0,0,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,zzznomatch,4,0.0023,0,0,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,inverted,terms,zzznomatch,5,0.0024,0,0,0.2496,68535,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,document,1,0.0083,6,6,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,document,2,0.0067,6,6,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,document,3,0.0062,6,6,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,document,4,0.0061,6,6,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,document,5,0.0065,6,6,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,index,1,0.0052,5,5,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,index,2,0.0058,5,5,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,index,3,0.0054,5,5,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,index,4,0.0053,5,5,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,index,5,0.0052,5,5,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,positional,1,0.0034,1,1,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,positional,2,0.003,1,1,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,positional,3,0.0032,1,1,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,positional,4,0.0028,1,1,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,positional,5,0.003,1,1,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,search engine,1,0.0052,4,4,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,search engine,2,0.0054,4,4,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,search engine,3,0.0051,4,4,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,search engine,4,0.0051,4,4,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,search engine,5,0.0052,4,4,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,memory query,1,0.0089,10,10,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,memory query,2,0.0088,10,10,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,memory query,3,0.0086,10,10,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,memory query,4,0.0085,10,10,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,memory query,5,0.0088,10,10,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,zzznomatch,1,0.0026,0,0,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,zzznomatch,2,0.0025,0,0,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,zzznomatch,3,0.0023,0,0,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,zzznomatch,4,0.0022,0,0,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,terms,zzznomatch,5,0.0023,0,0,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""search engine""",1,0.0106,2,2,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""search engine""",2,0.0081,2,2,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""search engine""",3,0.0074,2,2,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""search engine""",4,0.0074,2,2,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""search engine""",5,0.0071,2,2,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""index memory""",1,0.0067,0,3,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""index memory""",2,0.0068,0,3,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""index memory""",3,0.0063,0,3,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""index memory""",4,0.0062,0,3,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+12_sample,False,12,409,positional,phrase,"""index memory""",5,0.0068,0,3,0.305,101551,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,document,1,1.4533,60,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,document,2,1.4694,60,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,document,3,2.025,60,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,document,4,1.8448,60,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,document,5,1.82,60,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,index,1,2.7143,50,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,index,2,1.7277,50,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,index,3,1.6358,50,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,index,4,1.5834,50,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,index,5,1.4842,50,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,positional,1,1.4328,10,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,positional,2,1.3962,10,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,positional,3,1.3961,10,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,positional,4,1.3913,10,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,positional,5,1.4018,10,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,search engine,1,1.434,40,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,search engine,2,2.1991,40,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,search engine,3,1.7681,40,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,search engine,4,1.539,40,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,search engine,5,1.4886,40,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,memory query,1,1.4516,100,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,memory query,2,1.4354,100,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,memory query,3,1.3875,100,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,memory query,4,1.4245,100,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,memory query,5,1.7282,100,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,zzznomatch,1,1.7042,0,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,zzznomatch,2,1.7092,0,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,zzznomatch,3,1.7992,0,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,zzznomatch,4,1.7057,0,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,sequential,terms,zzznomatch,5,1.7147,0,120,0.0081,39827,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,document,1,0.0728,60,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,document,2,0.0721,60,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,document,3,0.0726,60,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,document,4,0.0702,60,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,document,5,0.0936,60,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,index,1,0.0685,50,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,index,2,0.0674,50,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,index,3,0.067,50,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,index,4,0.0679,50,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,index,5,0.0677,50,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,positional,1,0.0581,10,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,positional,2,0.0591,10,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,positional,3,0.0593,10,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,positional,4,0.0581,10,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,positional,5,0.0585,10,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,search engine,1,0.0766,40,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,search engine,2,0.0774,40,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,search engine,3,0.0761,40,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,search engine,4,0.0764,40,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,search engine,5,0.0763,40,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,memory query,1,0.091,100,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,memory query,2,0.0907,100,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,memory query,3,0.0901,100,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,memory query,4,0.0902,100,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,memory query,5,0.0901,100,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,zzznomatch,1,0.0489,0,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,zzznomatch,2,0.0503,0,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,zzznomatch,3,0.0493,0,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,zzznomatch,4,0.0508,0,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,forward,terms,zzznomatch,5,0.0509,0,120,1.7104,314367,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,document,1,0.0275,60,60,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,document,2,0.0248,60,60,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,document,3,0.0232,60,60,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,document,4,0.0232,60,60,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,document,5,0.0226,60,60,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,index,1,0.0212,50,50,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,index,2,0.0206,50,50,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,index,3,0.0208,50,50,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,index,4,0.0262,50,50,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,index,5,0.0323,50,50,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,positional,1,0.0147,10,10,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,positional,2,0.0157,10,10,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,positional,3,0.0165,10,10,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,positional,4,0.0149,10,10,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,positional,5,0.0155,10,10,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,search engine,1,0.0311,40,40,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,search engine,2,0.028,40,40,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,search engine,3,0.0278,40,40,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,search engine,4,0.0261,40,40,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,search engine,5,0.0258,40,40,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,memory query,1,0.0531,100,100,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,memory query,2,0.0533,100,100,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,memory query,3,0.0834,100,100,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,memory query,4,0.133,100,100,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,memory query,5,0.0611,100,100,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,zzznomatch,1,0.0066,0,0,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,zzznomatch,2,0.006,0,0,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,zzznomatch,3,0.0051,0,0,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,zzznomatch,4,0.0039,0,0,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,inverted,terms,zzznomatch,5,0.0043,0,0,2.4736,154483,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,document,1,0.0225,60,60,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,document,2,0.021,60,60,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,document,3,0.0198,60,60,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,document,4,0.0193,60,60,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,document,5,0.0194,60,60,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,index,1,0.0182,50,50,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,index,2,0.0179,50,50,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,index,3,0.0177,50,50,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,index,4,0.0179,50,50,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,index,5,0.0174,50,50,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,positional,1,0.0086,10,10,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,positional,2,0.0088,10,10,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,positional,3,0.0086,10,10,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,positional,4,0.0092,10,10,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,positional,5,0.0088,10,10,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,search engine,1,0.0178,40,40,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,search engine,2,0.0171,40,40,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,search engine,3,0.0168,40,40,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,search engine,4,0.0168,40,40,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,search engine,5,0.017,40,40,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,memory query,1,0.0325,100,100,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,memory query,2,0.0313,100,100,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,memory query,3,0.0309,100,100,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,memory query,4,0.0308,100,100,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,memory query,5,0.0309,100,100,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,zzznomatch,1,0.0031,0,0,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,zzznomatch,2,0.0025,0,0,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,zzznomatch,3,0.003,0,0,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,zzznomatch,4,0.0026,0,0,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,terms,zzznomatch,5,0.0023,0,0,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""search engine""",1,0.0436,20,20,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""search engine""",2,0.0421,20,20,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""search engine""",3,0.0412,20,20,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""search engine""",4,0.0401,20,20,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""search engine""",5,0.0396,20,20,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""index memory""",1,0.0411,0,30,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""index memory""",2,0.0394,0,30,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""index memory""",3,0.0392,0,30,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""index memory""",4,0.0388,0,30,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+120_synthetic,True,120,4090,positional,phrase,"""index memory""",5,0.0389,0,30,4.5856,476075,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,document,1,10.3937,300,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,document,2,8.4766,300,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,document,3,9.1568,300,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,document,4,9.3013,300,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,document,5,10.0061,300,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,index,1,7.7764,250,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,index,2,9.513,250,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,index,3,12.2861,250,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,index,4,7.5854,250,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,index,5,8.0739,250,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,positional,1,7.7041,50,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,positional,2,8.8328,50,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,positional,3,8.9865,50,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,positional,4,11.729,50,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,positional,5,7.0533,50,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,search engine,1,7.0507,200,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,search engine,2,10.3489,200,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,search engine,3,6.9673,200,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,search engine,4,7.5137,200,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,search engine,5,7.7201,200,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,memory query,1,7.7867,500,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,memory query,2,7.4338,500,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,memory query,3,9.2273,500,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,memory query,4,11.3576,500,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,memory query,5,8.285,500,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,zzznomatch,1,11.5667,0,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,zzznomatch,2,7.868,0,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,zzznomatch,3,7.6373,0,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,zzznomatch,4,8.2998,0,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,sequential,terms,zzznomatch,5,10.209,0,600,0.0403,181307,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,document,1,0.3974,300,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,document,2,0.3548,300,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,document,3,0.3347,300,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,document,4,0.331,300,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,document,5,0.332,300,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,index,1,0.3188,250,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,index,2,0.3227,250,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,index,3,0.3176,250,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,index,4,0.3177,250,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,index,5,0.3163,250,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,positional,1,0.2683,50,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,positional,2,0.2728,50,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,positional,3,0.265,50,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,positional,4,0.2664,50,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,positional,5,0.2684,50,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,search engine,1,1.0089,200,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,search engine,2,0.5391,200,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,search engine,3,0.6789,200,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,search engine,4,0.3861,200,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,search engine,5,0.3582,200,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,memory query,1,1.5898,500,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,memory query,2,0.8708,500,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,memory query,3,0.6695,500,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,memory query,4,0.6945,500,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,memory query,5,0.4318,500,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,zzznomatch,1,0.2394,0,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,zzznomatch,2,0.2146,0,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,zzznomatch,3,0.4297,0,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,zzznomatch,4,0.2143,0,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,forward,terms,zzznomatch,5,0.2106,0,600,7.294,1549655,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,document,1,0.0781,300,300,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,document,2,0.0729,300,300,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,document,3,0.0709,300,300,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,document,4,0.0701,300,300,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,document,5,0.0702,300,300,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,index,1,0.0639,250,250,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,index,2,0.0627,250,250,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,index,3,0.0625,250,250,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,index,4,0.0615,250,250,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,index,5,0.0621,250,250,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,positional,1,0.0158,50,50,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,positional,2,0.0768,50,50,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,positional,3,0.0851,50,50,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,positional,4,0.0529,50,50,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,positional,5,0.0369,50,50,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,search engine,1,0.0914,200,200,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,search engine,2,0.0752,200,200,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,search engine,3,0.0619,200,200,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,search engine,4,0.0588,200,200,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,search engine,5,0.0579,200,200,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,memory query,1,0.1412,500,500,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,memory query,2,0.1473,500,500,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,memory query,3,0.14,500,500,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,memory query,4,0.138,500,500,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,memory query,5,0.1374,500,500,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,zzznomatch,1,0.0033,0,0,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,zzznomatch,2,0.0031,0,0,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,zzznomatch,3,0.003,0,0,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,zzznomatch,4,0.0028,0,0,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,inverted,terms,zzznomatch,5,0.0029,0,0,8.9173,747115,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,document,1,0.1477,300,300,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,document,2,0.5099,300,300,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,document,3,0.1748,300,300,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,document,4,0.1108,300,300,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,document,5,0.2492,300,300,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,index,1,0.0747,250,250,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,index,2,0.0707,250,250,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,index,3,0.0699,250,250,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,index,4,0.0695,250,250,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,index,5,0.069,250,250,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,positional,1,0.018,50,50,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,positional,2,0.0176,50,50,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,positional,3,0.0231,50,50,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,positional,4,0.0211,50,50,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,positional,5,0.0184,50,50,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,search engine,1,0.069,200,200,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,search engine,2,0.0692,200,200,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,search engine,3,0.0677,200,200,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,search engine,4,0.0666,200,200,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,search engine,5,0.069,200,200,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,memory query,1,0.2567,500,500,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,memory query,2,0.2073,500,500,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,memory query,3,0.2039,500,500,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,memory query,4,0.2065,500,500,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,memory query,5,0.2211,500,500,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,zzznomatch,1,0.0049,0,0,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,zzznomatch,2,0.0045,0,0,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,zzznomatch,3,0.0044,0,0,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,zzznomatch,4,0.0041,0,0,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,terms,zzznomatch,5,0.0041,0,0,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""search engine""",1,0.3234,100,100,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""search engine""",2,0.3021,100,100,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""search engine""",3,0.2998,100,100,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""search engine""",4,0.2922,100,100,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""search engine""",5,0.297,100,100,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""index memory""",1,0.3438,0,150,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""index memory""",2,0.3242,0,150,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""index memory""",3,0.31,0,150,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""index memory""",4,0.2001,0,150,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
+600_synthetic,True,600,20450,positional,phrase,"""index memory""",5,0.2988,0,150,16.756,2351267,3.12.8,Windows-11-10.0.22631-SP0
